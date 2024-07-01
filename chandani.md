@@ -1,2 +1,2 @@
 # Hi guys #
-<p>Hello , I am chandani.I am working as fontend developer in this project.</p>
+<p>Hello , I am chandani.I want to work as a frontend developer in this project.</p>
